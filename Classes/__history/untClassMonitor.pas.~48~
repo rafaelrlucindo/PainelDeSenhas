@@ -1,0 +1,124 @@
+unit untClassMonitor;
+
+interface
+
+uses
+  Pkg.Json.DTO, System.Generics.Collections, REST.Json.Types;
+
+{$M+}
+
+type
+  TAcougue = class
+  private
+    FAcouguenormal: Integer;
+    FAcouguenormalproximo: Integer;
+    FAcouguepreferencial: Integer;
+    FAcouguepreferencialproximo: Integer;
+    FDatamovimento: string;
+    FDescritivo: string;
+    FAlterado: string;
+  published
+    property Acouguenormal: Integer read FAcouguenormal write FAcouguenormal;
+    property Acouguenormalproximo: Integer read FAcouguenormalproximo write FAcouguenormalproximo;
+    property Acouguepreferencial: Integer read FAcouguepreferencial write FAcouguepreferencial;
+    property Acouguepreferencialproximo: Integer read FAcouguepreferencialproximo write FAcouguepreferencialproximo;
+    property Datamovimento: string read FDatamovimento write FDatamovimento;
+    property Descritivo: string read FDescritivo write FDescritivo;
+    property alterado : string read FAlterado write FAlterado;
+  end;
+
+  TPadaria = class
+  private
+    FDatamovimento: string;
+    FDescritivo: string;
+    FPadarianormal: Integer;
+    FPadarianormalproximo: Integer;
+    FPadariapreferencial: Integer;
+    FPadariapreferencialproximo: Integer;
+    FAlterado: string;
+  published
+    property Datamovimento: string read FDatamovimento write FDatamovimento;
+    property Descritivo: string read FDescritivo write FDescritivo;
+    property Padarianormal: Integer read FPadarianormal write FPadarianormal;
+    property Padarianormalproximo: Integer read FPadarianormalproximo write FPadarianormalproximo;
+    property Padariapreferencial: Integer read FPadariapreferencial write FPadariapreferencial;
+    property Padariapreferencialproximo: Integer read FPadariapreferencialproximo write FPadariapreferencialproximo;
+    property alterado : string read FAlterado write FAlterado;
+  end;
+
+  TDisplay = class
+  private
+    FAutomatico: string;
+    FChamadas: Integer;
+    FFrase: string;
+    FZerardiario: string;
+    FServidor : string;
+
+    { configurações de visuais}
+    FMostrarlogo: string;
+    FDoisDisplay : string;
+    FLogoEmpresa : String;
+    FFontePadariaTamanho : Single;
+    FFontePadariaScaleX : Double;
+    FFontePadariaScaleY : Double;
+    FFatorTempoLetreito : integer;
+    FFonteLetreitoTamanho : Single;
+
+  published
+    property Automatico: string read FAutomatico write FAutomatico;
+    property Chamadas: Integer read FChamadas write FChamadas;
+    property Frase: string read FFrase write FFrase;
+    property Mostrarlogo: string read FMostrarlogo write FMostrarlogo;
+    property Zerardiario: string read FZerardiario write FZerardiario;
+    property Servidor: string read FServidor write FServidor;
+    property logoEmpresa: string read FLogoEmpresa write FLogoEmpresa;
+    property doisDisplay : string read FDoisDisplay write FDoisDisplay;
+    property fontePadariaTamanho : Single read FFontePadariaTamanho write FFontePadariaTamanho;
+    property fontePadariaScaleX : Double read FFontePadariaScaleX write FFontePadariaScaleX;
+    property fontePadariaScaleY : Double read FFontePadariaScaleY write FFontePadariaScaleY;
+    property fatorTempoLetreito : integer read FFatorTempoLetreito write FFatorTempoLetreito;
+    property fonteLetreitoTamanho : Single read FFonteLetreitoTamanho write FFonteLetreitoTamanho;
+    property visualalterado : string read FVisualAlterado write FVisualAlterado;
+  end;
+
+  TClassMonitor = class(TJsonDTO)
+  private
+    FAcougue: TAcougue;
+    FConfiguracoes: TDisplay;
+    FPadaria: TPadaria;
+    FChamandoNovamente: string;
+    FTipo: string;
+    FVariante : String;
+  published
+    property Acougue: TAcougue read FAcougue;
+    property Configuracoes: TDisplay read FConfiguracoes;
+    property Padaria: TPadaria read FPadaria;
+    property chamandonovamente : string read FChamandoNovamente write FChamandoNovamente;
+    property tipo : string read FTipo write FTipo;
+    property variante: string read FVariante write FVariante;
+  public
+    constructor Create; override;
+    destructor Destroy; override;
+  end;
+
+implementation
+
+{ TRoot }
+
+constructor TClassMonitor.Create;
+begin
+  inherited;
+  FConfiguracoes := TDisplay.Create;
+  FPadaria := TPadaria.Create;
+  FAcougue := TAcougue.Create;
+end;
+
+destructor TClassMonitor.Destroy;
+begin
+  FConfiguracoes.Free;
+  FPadaria.Free;
+  FAcougue.Free;
+inherited;
+end;
+
+end.

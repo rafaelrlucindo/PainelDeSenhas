@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/11 20:23:53.000.602,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/09/22 19:12:54.000.109,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/11/23 17:07:52.000.566,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/11/23 18:41:47.000.355,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/11/23 19:32:10.000.622,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/11/23 19:58:36.000.735,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/11/23 20:45:58.000.830,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/11/23 20:47:27.000.754,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/11/23 22:12:36.000.658,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/12/08 10:51:14.000.313,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/12/20 22:01:15.000.996,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/12/20 22:01:31.000.922,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/12/27 18:30:49.000.701,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/01/04 23:50:49.000.391,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/01/10 09:03:55.000.058,=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/01/10 09:06:14.000.469,C:\Rafael\Cuiaba Software\untPrincipal.pas=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/01/10 09:06:14.000.469,C:\Rafael\Cuiaba Software\untPrincipal.fmx=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.fmx</Transaction>
+    <Transaction>2022/01/10 09:06:30.000.329,C:\Rafael\Cuiaba Software\appPainel.dproj=C:\Users\rafa\OneDrive\Documentos\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022/01/10 12:13:11.000.691,=C:\Rafael\Cuiaba Software\Unit1.pas</Transaction>
+    <Transaction>2022/01/10 12:13:30.000.988,C:\Rafael\Cuiaba Software\Unit1.pas=C:\Rafael\Cuiaba Software\Funcoes\untFuncoes.pas</Transaction>
+    <Transaction>2022/01/10 12:26:43.000.093,=C:\Rafael\Cuiaba Software\Unit1.pas</Transaction>
+    <Transaction>2022/01/10 12:36:16.000.712,C:\Rafael\Cuiaba Software\Unit1.fmx=C:\Rafael\Cuiaba Software\untConfiguracoes.fmx</Transaction>
+    <Transaction>2022/01/10 12:36:16.000.712,C:\Rafael\Cuiaba Software\Unit1.pas=C:\Rafael\Cuiaba Software\untConfiguracoes.pas</Transaction>
+    <Transaction>2022/01/10 16:06:32.000.408,=C:\Rafael\Cuiaba Software\Unit1.pas</Transaction>
+    <Transaction>2022/01/10 16:07:41.000.231,C:\Rafael\Cuiaba Software\Unit1.pas=C:\Rafael\Cuiaba Software\Classes\untClassMonitor.pas</Transaction>
+    <Transaction>2022/01/10 16:08:43.000.530,=C:\Rafael\Cuiaba Software\Classes\Pkg.Json.DTO.pas</Transaction>
+    <Transaction>2022/01/10 16:25:59.000.853,=C:\Rafael\Cuiaba Software\Unit1.pas</Transaction>
+    <Transaction>2022/01/10 16:27:09.000.112,C:\Rafael\Cuiaba Software\Unit1.pas=C:\Rafael\Cuiaba Software\Classes\untClassAplicativo.pas</Transaction>
+    <Transaction>2022/01/11 14:54:54.000.483,=C:\Rafael\Cuiaba Software\Unit2.pas</Transaction>
+    <Transaction>2022/01/11 15:38:21.000.754,C:\Rafael\Cuiaba Software\Unit2.fmx=C:\Rafael\Cuiaba Software\untPainel.fmx</Transaction>
+    <Transaction>2022/01/11 15:38:21.000.754,C:\Rafael\Cuiaba Software\Unit2.pas=C:\Rafael\Cuiaba Software\untPainel.pas</Transaction>
+    <Transaction>2022/01/11 20:31:06.000.886,=C:\Rafael\Cuiaba Software\Classes\untWebClient.pas</Transaction>
+    <Transaction>2022/01/12 10:15:07.000.922,C:\Rafael\Cuiaba Software\untConfiguracoesDisplay.pas=C:\Rafael\Cuiaba Software\untConfiguracoes.pas</Transaction>
+    <Transaction>2022/01/12 10:15:07.000.922,C:\Rafael\Cuiaba Software\untConfiguracoesDisplay.fmx=C:\Rafael\Cuiaba Software\untConfiguracoes.fmx</Transaction>
+    <Transaction>2022/01/12 10:16:42.000.994,=C:\Rafael\Cuiaba Software\untConfiguracoes.pas</Transaction>
+    <Transaction>2022/01/12 11:41:33.000.845,=C:\Rafael\Cuiaba Software\Unit2.pas</Transaction>
+    <Transaction>2022/01/12 11:58:19.000.812,=C:\Rafael\Cuiaba Software\Unit2.pas</Transaction>
+    <Transaction>2022/01/12 14:30:53.000.903,C:\Rafael\Cuiaba Software\untPainel.fmx=C:\Rafael\Cuiaba Software\untDisplay.fmx</Transaction>
+    <Transaction>2022/01/12 14:30:53.000.903,C:\Rafael\Cuiaba Software\untPainel.pas=C:\Rafael\Cuiaba Software\untDisplay.pas</Transaction>
+    <Transaction>2022/01/14 12:05:47.000.014,=C:\Rafael\Cuiaba Software\untConfiguracoesSom.pas</Transaction>
+    <Transaction>2022/01/14 16:22:26.000.992,=C:\Rafael\Cuiaba Software\Unit2.pas</Transaction>
+    <Transaction>2022/01/14 16:50:53.000.581,C:\Rafael\Cuiaba Software\Unit2.pas=C:\Rafael\Cuiaba Software\untTeclado.pas</Transaction>
+    <Transaction>2022/01/14 16:50:53.000.581,C:\Rafael\Cuiaba Software\Unit2.fmx=C:\Rafael\Cuiaba Software\untTeclado.fmx</Transaction>
+    <Transaction>2022/01/21 14:45:04.000.898,=C:\Rafael\Cuiaba Software\Classes\untClassVisual.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone" Android="RQ8R40AMMCM" Android64="emulator-5556"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

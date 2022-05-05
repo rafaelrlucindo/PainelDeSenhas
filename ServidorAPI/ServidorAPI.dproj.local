@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/01/11 19:10:46.261,=C:\Rafael\Cuiaba Software\ServidorAPI\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/01/11 19:10:48.354,=C:\Rafael\Cuiaba Software\ServidorAPI\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/01/11 19:10:52.707,=C:\Rafael\Cuiaba Software\ServidorAPI\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/01/11 19:10:54.657,=C:\Rafael\Cuiaba Software\ServidorAPI\ServerConst1.pas</Transaction>
+    <Transaction>2022/01/11 19:10:54.908,=C:\Rafael\Cuiaba Software\ServidorAPI\js\base64.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.023,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.104,=C:\Rafael\Cuiaba Software\ServidorAPI\js\json2.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.194,=C:\Rafael\Cuiaba Software\ServidorAPI\js\callbackframework.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.326,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctions.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.392,=C:\Rafael\Cuiaba Software\ServidorAPI\js\base64-min.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.479,=C:\Rafael\Cuiaba Software\ServidorAPI\js\json2-min.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.558,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.651,=C:\Rafael\Cuiaba Software\ServidorAPI\js\callbackframework-min.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.723,=C:\Rafael\Cuiaba Software\ServidorAPI\js\connection.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.839,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2022/01/11 19:10:55.906,=C:\Rafael\Cuiaba Software\ServidorAPI\css\main.css</Transaction>
+    <Transaction>2022/01/11 19:10:55.995,=C:\Rafael\Cuiaba Software\ServidorAPI\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2022/01/11 19:10:56.080,=C:\Rafael\Cuiaba Software\ServidorAPI\templates\reversestring.html</Transaction>
+    <Transaction>2022/01/11 19:10:56.197,=C:\Rafael\Cuiaba Software\ServidorAPI\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2022/01/11 19:10:56.260,=C:\Rafael\Cuiaba Software\ServidorAPI\images\collapse.png</Transaction>
+    <Transaction>2022/01/11 19:10:56.339,=C:\Rafael\Cuiaba Software\ServidorAPI\images\expand.png</Transaction>
+  </Transactions>
+</BorlandProject>

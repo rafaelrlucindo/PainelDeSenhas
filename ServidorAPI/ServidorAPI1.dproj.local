@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/11 19:40:12.000.697,=C:\Rafael\Cuiaba Software\ServidorAPI\FormUnit1.pas</Transaction>
+    <Transaction>2022/01/11 19:40:13.000.088,=C:\Rafael\Cuiaba Software\ServidorAPI\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/01/11 19:40:15.000.293,=C:\Rafael\Cuiaba Software\ServidorAPI\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/01/11 19:40:17.000.416,=C:\Rafael\Cuiaba Software\ServidorAPI\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.941,=C:\Rafael\Cuiaba Software\ServidorAPI\js\callbackframework-min.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.634,=C:\Rafael\Cuiaba Software\ServidorAPI\js\json2.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.991,=C:\Rafael\Cuiaba Software\ServidorAPI\js\connection.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.541,=C:\Rafael\Cuiaba Software\ServidorAPI\js\base64.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.781,=C:\Rafael\Cuiaba Software\ServidorAPI\js\base64-min.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.830,=C:\Rafael\Cuiaba Software\ServidorAPI\js\json2-min.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.879,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.673,=C:\Rafael\Cuiaba Software\ServidorAPI\js\callbackframework.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.731,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctions.js</Transaction>
+    <Transaction>2022/01/11 19:40:19.000.577,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2022/01/11 19:40:20.000.169,=C:\Rafael\Cuiaba Software\ServidorAPI\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2022/01/11 19:40:20.000.107,=C:\Rafael\Cuiaba Software\ServidorAPI\css\main.css</Transaction>
+    <Transaction>2022/01/11 19:40:20.000.054,=C:\Rafael\Cuiaba Software\ServidorAPI\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2022/01/11 19:40:20.000.369,=C:\Rafael\Cuiaba Software\ServidorAPI\images\collapse.png</Transaction>
+    <Transaction>2022/01/11 19:40:20.000.226,=C:\Rafael\Cuiaba Software\ServidorAPI\templates\reversestring.html</Transaction>
+    <Transaction>2022/01/11 19:40:20.000.294,=C:\Rafael\Cuiaba Software\ServidorAPI\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2022/01/11 19:40:20.000.432,=C:\Rafael\Cuiaba Software\ServidorAPI\images\expand.png</Transaction>
+    <Transaction>2022/01/11 19:40:29.000.356,C:\Rafael\Cuiaba Software\ServidorAPI\untServidor.fmx=C:\Rafael\Cuiaba Software\ServidorAPI\FormUnit1.fmx</Transaction>
+    <Transaction>2022/01/11 19:40:29.000.356,C:\Rafael\Cuiaba Software\ServidorAPI\untServidor.pas=C:\Rafael\Cuiaba Software\ServidorAPI\FormUnit1.pas</Transaction>
+    <Transaction>2022/01/11 20:10:15.000.447,=C:\Rafael\Cuiaba Software\Classes\untClassMonitor.pas</Transaction>
+    <Transaction>2022/01/11 20:10:36.000.129,=C:\Rafael\Cuiaba Software\Classes\Pkg.Json.DTO.pas</Transaction>
+    <Transaction>2022/01/13 10:39:07.000.762,=C:\Rafael\Cuiaba Software\Funcoes\untFuncoes.pas</Transaction>
+    <Transaction>2022/01/13 11:01:53.000.216,=C:\Rafael\Cuiaba Software\Classes\untClassAplicativo.pas</Transaction>
+    <Transaction>2022/01/18 18:27:50.000.806,=C:\Rafael\Cuiaba Software\ServidorAPI\Unit2.pas</Transaction>
+    <Transaction>2022/01/21 14:52:09.000.401,=C:\Rafael\Cuiaba Software\Classes\untClassVisual.pas</Transaction>
+    <Transaction>2022/01/24 21:58:20.000.863,=C:\Rafael\Cuiaba Software\ServidorAPI\Unit1.pas</Transaction>
+    <Transaction>2022/01/24 21:59:24.000.235,C:\Rafael\Cuiaba Software\ServidorAPI\Unit1.pas=C:\Rafael\Classes\untClassLog.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
