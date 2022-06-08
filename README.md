@@ -22,9 +22,6 @@ https://github.com/rafaelrlucindo/api...
 FrontEnd ( Display, Teclado e Impressão )
 https://github.com/rafaelrlucindo/Pai...
 
-Contribuições serão bem vindas!
-Chave pix = 320.083.878-79
-
 Licença
 - Open Source
 
